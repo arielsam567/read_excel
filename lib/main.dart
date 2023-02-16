@@ -42,7 +42,8 @@ Future<void> doit() async {
     }
   }
   print(list.length);
-  log(jsonEncode(list));
+  String json = jsonEncode(list);
+  log(json);
 }
 
 void getLastValue(List<Data?> row) {
