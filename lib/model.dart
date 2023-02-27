@@ -22,8 +22,8 @@ class Model {
       'university': universidade,
       'region': regiao,
       'city': cidade,
-      'lcGV': adm,
-      'lcGtaShort': a,
+      'lcGV': a,
+      'lcGtaShort': aa,
       'lcGtaMl': aa,
       'lcGte': aaa,
     };
